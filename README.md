@@ -1,4 +1,4 @@
-# Tic Tac Toe med React og Vite.
+# Tic Tac Toe med React og Vite
 
 **Opgave:**  
 1. Se følgende video: [Build an Awesome Version of Tic Tac Toe in React Tutorial](https://www.youtube.com/watch?v=4Gt_YyGf6B0).
